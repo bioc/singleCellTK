@@ -1,3 +1,7 @@
+Changes in Version 2.18.2 (2025-09-25)
+================================================================================
+* Fixed bug in plotting code related to list subsetting
+
 Changes in Version 2.18.1 (2025-07-01)
 ================================================================================
 * Updated enrichR examples
